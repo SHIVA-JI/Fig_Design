@@ -30,21 +30,7 @@ const SliderComponent = () => {
       <div>
         <Card />
       </div>
-      <div>
-        <Card />
-      </div>
-      <div>
-        <Card />
-      </div>
-      <div>
-        <Card />
-      </div>
-      <div>
-        <Card />
-      </div>
-      <div>
-        <Card />
-      </div>
+
     </Slider>
   );
 };

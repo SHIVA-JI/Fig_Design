@@ -20,9 +20,9 @@ const Body = () => {
             <li>50% off</li>
           </ul>
         </div>
-        <div className="col-9">
+        <div className="col-6">
           {/* Use col-9 to allocate the remaining space for the SliderComponent */}
-          <SliderComponent />
+            <SliderComponent />
         </div>
       </div>
     </div>
