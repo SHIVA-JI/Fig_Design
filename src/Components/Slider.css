@@ -1,0 +1,15 @@
+.card-slider-container {
+    width: 80%; /* Adjust the width as needed */
+    margin: auto; /* Center the slider */
+  }
+  
+  .slick-list {
+    padding: 0;
+  }
+  
+  .slick-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto; /* Adjust the height as needed */
+  }
